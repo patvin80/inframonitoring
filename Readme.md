@@ -1,4 +1,4 @@
-# Radical Sabbatical Code Snippets
+# Infra Monitoring Code Snippets
 
 ## Introduction
 Code Snippets provided in the folder can be copied and pasted in the Lambda Console
